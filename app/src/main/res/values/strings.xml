@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidDesignPatterns</string>
+    <string name="error_message">Unable to get movies. Please retry later</string>
+</resources>
