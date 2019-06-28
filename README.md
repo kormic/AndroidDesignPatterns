@@ -4,7 +4,7 @@ ADP is a small project that uses the movieDB api (https://developers.themoviedb.
 
 # Instructions
 
-To run this app you will need an api key from movieDB. To get an api key you 'll need to create an account. After that you can create a file in the .gradle folder in your user folder and call it gradle-properties and add MOVIES_API_KEY="your_api_key".
+To run this app you will need an api key from movieDB. To get an api key you 'll need to create an account. After that you can create a file in the .gradle folder in your user folder and call it gradle.properties and add MOVIES_API_KEY="your_api_key".
 
 ## Contributing
 Pull requests are welcome.
